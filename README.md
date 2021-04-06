@@ -1,8 +1,8 @@
-### André Luis Moreira.
+## André Luis Moreira.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andreluismoreira)](https://github.com/andreluismoreira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-luis-1b937aa3/)](https://www.linkedin.com/in/andre-luis-1b937aa3/)
-[![Gmail Badge] (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=<a href="mailto:andreluistma@gmail.com?subject=Hello%20again">)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=href="mailto:andreluistma@gmail.com?subject=Hello%20again")
 
 ## Sobre mim :dart:
 
@@ -12,9 +12,9 @@
 
 ## Atualmente estou estudando :rocket:
 
-[![https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-[![https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-[![https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+(https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+(https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
 <!--
