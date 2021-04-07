@@ -1,4 +1,4 @@
-## André Luis Moreira.
+# André Luis Moreira.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/andreluismoreira)](https://github.com/andreluismoreira)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-luis-1b937aa3/)](https://www.linkedin.com/in/andre-luis-1b937aa3/)
@@ -6,7 +6,7 @@
 
 ## Sobre mim :dart:
 
- :white_check_mark: Eu sou estudante de Sistemas para internet, estou atualmente no 3° periodo 
+ ::ballot_box_with_check: Eu sou estudante de Sistemas para internet, estou atualmente no 3° periodo 
 <p>
  :white_check_mark: Gosto muite de tecnologias, programação e desenvolvimento pessoal ! 
 
