@@ -6,9 +6,9 @@
 
 ## Sobre mim :dart:
 
- ::ballot_box_with_check: Eu sou estudante de Sistemas para internet, estou atualmente no 3° periodo 
+ :ballot_box_with_check: Sou estudante de Sistemas para internet, estou atualmente no 3° periodo 
 <p>
- :white_check_mark: Gosto muite de tecnologias, programação e desenvolvimento pessoal ! 
+ :ballot_box_with_check: Sou apaixonado por tecnologias e desenvolvimento pessoal :v:
 
 
 ## Atualmente estou estudando :rocket:
