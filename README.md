@@ -1,8 +1,8 @@
 ## André Luis Moreira.
 
-![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/andreluismoreira)](https://github.com/andreluismoreira)
-![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-luis-1b937aa3/)](https://www.linkedin.com/in/andre-luis-1b937aa3/)
-<a target="_blank" href="mailto:eduardojpsena@gmail.com?subject=Hello%20again"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ShieldGmail"/> </a>
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andreluismoreira)](https://github.com/andreluismoreira)
+![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-luis-1b937aa3/)](https://www.linkedin.com/in/andre-luis-1b937aa3/)
+<a target="_blank" href="mailto:andreluistma@gmail.com?subject=Hello%20again"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="ShieldGmail"/> </a>
 
 ## Sobre mim :dart:
 
