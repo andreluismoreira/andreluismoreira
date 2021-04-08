@@ -1,6 +1,6 @@
 # André Luis Moreira.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-luis-1b937aa3/)](https://www.linkedin.com/in/andre-luis-1b937aa3/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreluismoreirass/)](https://www.linkedin.com/in/andreluismoreirass/)
 <a target="_blank" href="mailto:andreluistma@gmail.com?subject=Hello%20again"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ShieldGmail"/> </a>
 
 ## Sobre mim :dart:
