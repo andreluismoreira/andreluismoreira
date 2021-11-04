@@ -12,9 +12,9 @@
 
 ## Atualmente estou estudando :rocket:
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/andreluismoreira/Curso-Spring-Boot/)]
-(https://github.com/andreluismoreira/Curso-Spring-Boot)
- <a target="_blank" href="https://github.com/andreluismoreira/Curso-Spring-Boot"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </a>
+<a target="_blank" href="https://github.com/andreluismoreira/Chess-System-JAVA"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </a>
+<a target="_blank" href="https://github.com/andreluismoreira/Curso-Spring-Boot"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> </a>
+<a target="_blank" href="https://github.com/andreluismoreira/ProjetoTesteIngles"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> </a>
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
