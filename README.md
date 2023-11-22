@@ -5,7 +5,7 @@
 
 ## Sobre mim :dart:
 
- :ballot_box_with_check: Sou estudante de Sistemas para internet, estou atualmente no 5° periodo 
+ :ballot_box_with_check: Formado em Sistemas para Internet
 <p>
  :ballot_box_with_check: Sou apaixonado por tecnologias e desenvolvimento pessoal :v:
 
